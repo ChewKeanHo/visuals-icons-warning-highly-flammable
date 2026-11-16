@@ -167,11 +167,11 @@ Packaged-By: (Holloway) Chew, Kean Ho
 Contact: hello@chewkeanho.com
 SKU: chewkeanho-visuals-icons-warning-highly-flammable
 UUID: 5B0239E2-A0BA-4848-9CF0-F74D2490F8A5
-DOI: [DOI ID]
+DOI: 10.5281/zenodo.24271433
 License: Creative Commons Attribution-NoDerivatives 4.0 International License (https://creativecommons.org/licenses/by-nd/4.0)
 Repository Made On: 2026-11-16
 Repository Made From: Malaysia, South East Asia
-Procure: https://github.com/ChewKeanHo/visuals-icons-warning-highly-flammable
+Procure: https://doi.org/10.5281/zenodo.24271433
 ```
 
 

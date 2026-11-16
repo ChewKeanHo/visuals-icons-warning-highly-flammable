@@ -1,4 +1,4 @@
-Copyright 2026 The Warning Highly Flammable 1200x1200 Icon Project Team (https://github.com/ChewKeanHo/visuals-icons-warning-highly-flammable)
+Copyright 2026 The Warning Highly Flammable 1200x1200 Icon Project Team (https://doi.org/10.5281/zenodo.24271433)
 
 The above unified aliases have one or more actual legal entities listed outside
 of this document: (1) 'CREATORS.txt' or 'AUTHORS.txt'; and
